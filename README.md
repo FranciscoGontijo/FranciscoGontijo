@@ -48,12 +48,6 @@ Hi, I'm Francisco Gontijo!
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-## GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscogontijo&show_icons=true&locale=en&layout=compact" alt="franciscogontijo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscogontijo&" alt="franciscogontijo" /></p>
-
 ## Let's Work on Your Project Together!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:franciscoacmg@gmail.com">email</a> me.
