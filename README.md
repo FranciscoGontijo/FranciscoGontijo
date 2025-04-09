@@ -13,7 +13,7 @@ Hi, I'm Francisco Gontijo!
 💻 I am a self taught Front End Developer
 📚 I have a Bachelors in Civil Engineer from the UNA University
 📝 I have a strong interest in writing clean code
-🔭 Working on personal projects
+🔭 Working on QuadraON Saas (quadraon.com.br)
 🌱 Learning about main JavaScript frameworks
 🌟 Main languages: TypeScript, JavaScript
 ```
