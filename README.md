@@ -40,7 +40,7 @@ Hi, I'm Francisco Gontijo!
  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="prisma" title="Prisma" width="40" height="40"/><img src="https://avatars.githubusercontent.com/u/104267440?s=200&v=4" alt="drizzle" title="Drizzle ORM" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" alt="Supabase" title="Supabase" width="40" height="40"/>
 
 ---
 
