@@ -4,7 +4,7 @@ Hi, I'm Francisco Gontijo!
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Front+End+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 <hr>
 
