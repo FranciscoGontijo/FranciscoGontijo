@@ -12,7 +12,7 @@ Hi, I'm Francisco Gontijo!
 - 💻 I am a self taught Full Stack Developer  
 - 📚 I am currently enrolled in the Software Engineering program at Descomplica University  
 - 📝 I have a strong interest in solving everyday problems using my programs 
-- 🔭 Working on [QuadraON SaaS](https://quadraon.com.br)
+- 🔭 Working on [Merge](https://mergeapp.com.br)
 - 🌱 Learning more about the back-end part of web development
 - 🌟 Main languages: TypeScript, JavaScript  
 
