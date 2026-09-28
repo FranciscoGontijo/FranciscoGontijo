@@ -4,61 +4,75 @@ Hi, I'm Francisco Gontijo!
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Developer;Co-founder+at+Merge;Open+to+internship+and+junior+roles&center=true&width=460&height=45">
+</p>
+
+<p align="center">
+  <a href="https://franciscogontijo.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/franciscogontijo/">LinkedIn</a> ·
+  <a href="https://franciscogontijo.github.io/cv/Francisco-Gontijo-Resume-EN.pdf">Resume (EN)</a> ·
+  <a href="https://franciscogontijo.github.io/cv/Francisco-Gontijo-Curriculo.pdf">Currículo (PT)</a>
 </p>
 <hr>
 
 
-- 💻 I am a self taught Full Stack Developer  
-- 📚 I am currently enrolled in the Software Engineering program at Descomplica University  
-- 📝 I have a strong interest in solving everyday problems using my programs 
-- 🔭 Working on [Merge](https://mergeapp.com.br)
-- 🌱 Learning more about the back-end part of web development
-- 🌟 Main languages: TypeScript, JavaScript  
+- 💻 Full-stack developer based in Florianópolis, Brazil
+- 🚀 Co-founder of [Merge](https://mergeapp.com.br), a sports platform with two Next.js web apps and a React Native app on one PostgreSQL database
+- 📚 Software Engineering student at Descomplica (graduating in 2027), coming from Civil Engineering
+- 🔎 Open to internship and junior developer roles, in Florianópolis or remote
+- 🔒 Most of my recent work lives in Merge's private repositories. My [portfolio](https://franciscogontijo.github.io) has a case study with the architecture and the decisions behind it
+- 🗣️ Portuguese (native), English (professional), Spanish (intermediate)
 
 <hr>
 
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40" style="display: inline-block;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40" style="display: inline-block;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40" style="display: inline-block;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40" style="display: inline-block;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
 
 ---
 
-### 🧱 Frameworks and Libraries
+### 🧱 Front End & Mobile
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" title="Next.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="Node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="Express.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" title="Jest" width="40" height="40"/>
-
----
-
-### 🗄️ Databases, ORM & Query Builders
-
- <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="prisma" title="Prisma" width="40" height="40"/><img src="https://avatars.githubusercontent.com/u/104267440?s=200&v=4" alt="drizzle" title="Drizzle ORM" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" alt="Supabase" title="Supabase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="React and React Native" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" title="Next.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" title="Tailwind CSS" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo" title="Expo (React Native)"/>
 
 ---
 
-### 🔐 Authentication & Authorization
+### 🗄️ Back End & Data
 
-  <img src="https://avatars.githubusercontent.com/u/87337848?s=200&v=4" alt="clerk" title="Clerk" width="40" height="40"/><img src="https://img.shields.io/badge/AWS%20Cognito-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws cognito" title="AWS Cognito"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt" title="JWT (JSON Web Token)"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" title="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" title="Prisma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" title="Supabase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="40" height="40"/>
 
 ---
 
-### 💻 Software and Tools
+### 🔐 Auth, Real Time & Payments
 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/87337848?s=200&v=4" alt="clerk" title="Clerk" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" alt="pusher" title="Pusher (real time)"/>
+<img src="https://img.shields.io/badge/Asaas-0B2E59?style=for-the-badge" alt="asaas" title="Asaas (Pix and card payments)"/>
+
+---
+
+### 🛠️ Infra & Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" title="GitHub Actions" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" title="Vercel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="vitest" title="Vitest" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" title="Postman" width="40" height="40"/>
 
 
-## 🚀 Let's Build Something Great Together!
+## 🤝 Let's Talk
 
-Got a project idea or need help with web development?  
-Feel free to [reach out via email](mailto:franciscoacmg@gmail.com). I'd love to hear from you!
+I'm looking for my next step as a developer, in an internship or junior role.
+Reach me by [email](mailto:franciscoacmg@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/franciscogontijo/).
