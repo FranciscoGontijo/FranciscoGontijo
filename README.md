@@ -18,7 +18,7 @@ Hi, I'm Francisco Gontijo!
 
 - 💻 Full-stack developer based in Florianópolis, Brazil
 - 🚀 Co-founder of [Merge](https://mergeapp.com.br), a sports platform with two Next.js web apps and a React Native app on one PostgreSQL database
-- 📚 Software Engineering student at Descomplica (graduating in 2027), coming from Civil Engineering
+- 📚 Software Engineering student at Descomplica (graduating in 2028), coming from Civil Engineering
 - 🔎 Open to internship and junior developer roles, in Florianópolis or remote
 - 🔒 Most of my recent work lives in Merge's private repositories. My [portfolio](https://franciscogontijo.github.io) has a case study with the architecture and the decisions behind it
 - 🗣️ Portuguese (native), English (professional), Spanish (intermediate)
